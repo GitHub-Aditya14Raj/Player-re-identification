@@ -49,7 +49,7 @@ pip install ultralytics opencv-python torch torchvision scipy tqdm
 ```
 
 
-🚀 How to Run
+##🚀 How to Run
 
 1)Open main.ipynb in Google Colab (recommended) or your local environment.
 
